@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hfgchR4Cx4JR46Z1HHSmwd7JHtSrwOHcVTOqBoXxsfA=",
+  "Source": "Test.Core.Web",
+  "BasePath": "_content/Test.Core.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
